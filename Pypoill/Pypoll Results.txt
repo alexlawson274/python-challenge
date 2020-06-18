@@ -1,0 +1,10 @@
+ELECTION RESULTS
+-------------------------
+Total of the Votes: 1048575
+-------------------------
+Khan got 661583 votes 63%
+Correy got 209046 votes 20%
+Li got 146360 votes 14%
+OTooley got 31586 votes 3%
+-------------------------
+The Winner is Khan
