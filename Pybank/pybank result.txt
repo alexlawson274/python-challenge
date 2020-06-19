@@ -1,0 +1,4 @@
+the number of months is: 86
+the total is: 38382578
+the Max is: 1170593
+the Min is: -1196225
